@@ -15,6 +15,7 @@ I work at the intersection of agentic systems, product engineering, and business
 
 | Project | Recruiter signal |
 | --- | --- |
+| [SignalDesk + FrictionLab](https://github.com/zayyanla-hash/signaldesk-frictionlab) ([live demo](https://zayyan-portfolio-labs-ascend4.vercel.app)) | Two working B2B tools: evidence-backed GTM account prioritization where every fit score traces to cited official docs, and onboarding funnel diagnostics that turn drop-offs into reviewed decisions. React, TypeScript, Vite. |
 | [Apply OS case study](https://github.com/zayyanla-hash/apply-os-case-study) | Private source: eligibility-first job-search control plane with structured ingestion, prioritization, approval gates, and truthful application preparation. |
 | [Agent Runtime case study](https://github.com/zayyanla-hash/agent-runtime-case-study) | Private source: local-first agent infrastructure with model routing, tool-call repair, transactional patches, sandboxing, durable checkpoints, and verifier-gated completion. |
 | [DiliPilot case study](https://github.com/zayyanla-hash/dilipilot-case-study) | Private source: acquisition-finance workflow that combines document provenance, deterministic financial calculations, review queues, and lender-prep outputs. |
