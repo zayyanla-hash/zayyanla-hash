@@ -1,43 +1,39 @@
 # Zayyan Latif
 
-Building applied AI systems and workflow software that turn messy operational problems into reliable, reviewable tools.
+**Product, business operations, and GTM systems.**
 
-I work at the intersection of agentic systems, product engineering, and business operations: combining deterministic rules with language models, integrating real data sources, and adding verification and human approval where reliability matters.
+I co-founded DiliPilot, built its first MVP, and scaled it to **$5K MRR**. I build products and internal tools for financial workflows, customer onboarding, and account research.
 
-## What I build
+I'm looking for a full-time role in a founder's office, business operations, product, forward-deployed engineering, customer implementation, or GTM systems.
 
-- AI agents with tool calling, structured outputs, retries, sandboxing, and evidence-gated verification.
-- Local-first workflow products for job-search operations, diligence, finance, and technical operations.
-- Evaluation and routing infrastructure for comparing models and making AI behavior observable.
-- Customer-workflow-style implementations: messy inputs → encoded requirements → integrated tools → auditable outputs.
+[Portfolio](https://zayyanlatif.com) · [LinkedIn](https://www.linkedin.com/in/zayyanmlatif/) · [Email](mailto:zayyanlatif11@gmail.com)
 
-## Featured work
+## Start with these projects
 
-| Project | Recruiter signal |
-| --- | --- |
-| [SignalDesk + FrictionLab](https://github.com/zayyanla-hash/signaldesk-frictionlab) ([live demo](https://zayyan-portfolio-labs-ascend4.vercel.app)) | Two working B2B tools: evidence-backed GTM account prioritization where every fit score traces to cited official docs, and onboarding funnel diagnostics that turn drop-offs into reviewed decisions. React, TypeScript, Vite. |
-| [Apply OS case study](https://github.com/zayyanla-hash/apply-os-case-study) | Private source: eligibility-first job-search control plane with structured ingestion, prioritization, approval gates, and truthful application preparation. |
-| [Agent Runtime case study](https://github.com/zayyanla-hash/agent-runtime-case-study) | Private source: local-first agent infrastructure with model routing, tool-call repair, transactional patches, sandboxing, durable checkpoints, and verifier-gated completion. |
-| [DiliPilot case study](https://github.com/zayyanla-hash/dilipilot-case-study) | Private source: acquisition-finance workflow that combines document provenance, deterministic financial calculations, review queues, and lender-prep outputs. |
-| [FDE Implementation Workbench](https://github.com/zayyanla-hash/fde-implementation-workbench) | Inspectable offline implementation system: messy requirements → normalized configuration → bounded tool recovery → approval → audit receipt. |
-| [Adaptive LLM Gateway](https://github.com/zayyanla-hash/adaptive-llm-gateway) | Inspectable model-routing infrastructure with hard privacy/capability gates, fallbacks, telemetry, and offline evaluation. |
-| [Solana Sentinel](https://github.com/zayyanla-hash/solana-sentinel) | Public event-driven research platform with normalized data ingestion, policy/risk gates, explainable signals, and paper execution; live broadcast is hard-disabled. |
-| [Recruiter portfolio](https://zayyanlatif.com) | Public case studies for applied AI, finance, and operations products using clearly labeled sample data and evidence boundaries. |
+| Project | What to inspect | Evidence and status |
+| --- | --- | --- |
+| **[DiliPilot](https://github.com/zayyanla-hash/dilipilot-case-study)** | Acquisition diligence: source-linked financials, earnings adjustments, financing scenarios, and review workflows. | **Built and scaled to $5K MRR.** Public case study; product source stays private. |
+| **[SignalDesk + FrictionLab](https://github.com/zayyanla-hash/signaldesk-frictionlab)** · [Demo](https://zayyan-portfolio-labs-ascend4.vercel.app) | Cited account briefs and prioritization; onboarding funnel analysis and reviewable decisions. | Working portfolio demos. Public-source research and synthetic examples; README distinguishes the earlier source release from the newer hosted demo. |
+| **[Implementation Workbench](https://github.com/zayyanla-hash/fde-implementation-workbench)** · [Demo](https://fde-implementation-workbench-ascend4.vercel.app) | Turn incomplete customer intake into tasks with owners, dependencies, blockers, and exportable launch criteria. | Public Python implementation with a browser demo and synthetic customers. |
+| **[MCP Guard](https://github.com/zayyanla-hash/mcp-guard)** · [Demo](https://zayyanla-hash.github.io/mcp-guard/) | Review supported source patterns, inspect evidence, and compare declared tool capabilities over time. | Released developer tool. The browser demo replays recorded fixtures; coverage limits are documented. |
 
-## Technical focus
+### A short route through the work
 
-TypeScript · Python · Next.js · React · LLM APIs · local inference · tool calling · structured outputs · agent orchestration · evaluation/testing · Supabase/Postgres · Playwright · workflow automation
+- **Founder's office / business operations:** start with DiliPilot for product ownership and financial workflow design, then the Workbench for turning a process into owned tasks.
+- **Product / GTM:** open SignalDesk, inspect a cited brief, then use FrictionLab to inspect funnel denominators and a proposed experiment.
+- **Forward-deployed engineering / implementation:** run the Workbench's intake-to-export walkthrough; inspect MCP Guard's architecture and evaluation for a deeper technical discussion.
 
-## Current focus
+## More systems work
 
-Applied AI and AI Forward Deployed Engineering: making systems useful in real workflows, reliable under failure, and legible to the people who operate them.
+- [Apply OS](https://github.com/zayyanla-hash/apply-os-case-study): a personal workflow prototype for qualification, review, approval, and application tracking. Public case study; private source.
+- [Agent Runtime](https://github.com/zayyanla-hash/agent-runtime-case-study): research into tool execution, verification, and resumable checkpoints. Public case study; private source.
+- [Adaptive LLM Gateway](https://github.com/zayyanla-hash/adaptive-llm-gateway): mock-first routing, privacy/capability gates, fallbacks, and offline evaluation.
+- [Solana Sentinel](https://github.com/zayyanla-hash/solana-sentinel): event-driven research and paper simulation with transaction evidence. Live broadcasting is disabled.
 
-## Background
+## How I work
 
-Bay Area · Las Positas College, Associate in Science for Transfer (AS-T), expected May 2027. Interested in applied AI, FDE, startup engineering, technical operations, and founder’s-office roles.
+Define the problem, build a usable workflow, test the failure cases, and make the result easy for another person to review. I use TypeScript, React/Next.js, Python, SQL, APIs, and AI coding tools to get there.
 
-More work and case studies: [zayyanlatif.com](https://zayyanlatif.com) · [LinkedIn](https://www.linkedin.com/in/zayyanlatif/)
+Bay Area · Las Positas College, AS-T in Business Administration, expected May 2027.
 
-Public case studies: [Apply OS](https://github.com/zayyanla-hash/apply-os-case-study) · [Agent Runtime](https://github.com/zayyanla-hash/agent-runtime-case-study) · [DiliPilot](https://github.com/zayyanla-hash/dilipilot-case-study)
-
-Private repositories stay private when they contain product source or sensitive workflow details; public surfaces are sanitized and claim-audited.
+Demo metrics and seeded fixtures describe examples, not customer outcomes. Private source, customer information, and credentials stay private.
