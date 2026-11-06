@@ -1,6 +1,6 @@
 # Zayyan Latif
 
-**Product, business operations, and GTM systems.**
+**Product, implementation, business operations, and GTM systems.**
 
 I co-founded DiliPilot, built its first MVP, and scaled it to **$5K MRR**. I build products and internal tools for financial workflows, customer onboarding, and account research.
 
@@ -21,7 +21,7 @@ I'm looking for a full-time role in a founder's office, business operations, pro
 
 - **Founder's office / business operations:** start with DiliPilot for product ownership and financial workflow design, then the Workbench for turning a process into owned tasks.
 - **Product / GTM:** open SignalDesk, inspect a cited brief, then use FrictionLab to inspect funnel denominators and a proposed experiment.
-- **Forward-deployed engineering / implementation:** run the Workbench's intake-to-export walkthrough; inspect MCP Guard's architecture and evaluation for a deeper technical discussion.
+- **Forward-deployed engineering / implementation:** run the Workbench's intake-to-export walkthrough; inspect MCP Guard's architecture and evaluation for a deeper technical discussion. [Follow the FDE review guide](docs/FDE_REVIEW.md) for code paths, tradeoffs, and production boundaries.
 
 ## More systems work
 
